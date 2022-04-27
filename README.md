@@ -2,6 +2,8 @@
 
 I'm Rafael Anton, a civil engineer, and programmer. I Support the AEC industry to become more efficient through code.
 
+[![Linkedin: rafael](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/rafael-anton/)
+[![GitHub Rafael](https://img.shields.io/github/followers/antonrafael?label=follow&style=social)](https://github.com/antonrafael)
 
 ## Most of the time, i code in
 ![](https://img.shields.io/static/v1?label&message=C%20Sharp&style=for-the-badge&color=blue)
@@ -23,11 +25,3 @@ I'm Rafael Anton, a civil engineer, and programmer. I Support the AEC industry t
 ![](https://img.shields.io/static/v1?label&message=MongoDB&style=for-the-badge&color=blue)
 ![](https://img.shields.io/static/v1?label&message=AWS%20Lambda&style=for-the-badge&color=blue)
 ![](https://img.shields.io/static/v1?label&message=AWS%20S3&style=for-the-badge&color=blue)
-
-## I Speak
-![](https://shields.io/badge/Portuguese-native-blue?style=for-the-badge)
-![](https://shields.io/badge/Spanish-Intermediate-blue?style=for-the-badge)
-![](https://shields.io/badge/English-Elementary-blue?style=for-the-badge)
-
-## Social Media
-[![](https://img.shields.io/static/v1?label&message=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/rafael-anton/)
