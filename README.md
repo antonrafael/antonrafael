@@ -1,6 +1,6 @@
 # Hi 
 
-I'm Rafael Anton, a civil engineer, and programmer. I Support the AEC industry to become more efficient through code.
+I'm Rafael Anton, a civil engineer, and programmer. I help the AEC industry to become more efficient through code.
 
 [![Linkedin: rafael](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/rafael-anton/)
 [![GitHub Rafael](https://img.shields.io/github/followers/antonrafael?label=follow&style=social)](https://github.com/antonrafael)
